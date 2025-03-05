@@ -13,42 +13,24 @@ redirect_from:
 
 -   B.A. in Economics with Honors & Mathematics, University of Washington, 2025 (expected)
 
-# Work experience
+# Passed Actuarial Papers
 
--   Spring 2024: Academic Pages Collaborator
-    -   GitHub University
-    -   Duties includes: Updates and improvements to template
-    -   Supervisor: The Users
--   Fall 2015: Research Assistant
-    -   GitHub University
-    -   Duties included: Merging pull requests
-    -   Supervisor: Professor Hub
--   Summer 2015: Research Assistant
-    -   GitHub University
-    -   Duties included: Tagging issues
-    -   Supervisor: Professor Git
+-   October 2023: SOA Exam FM
+    -   Assessing knowledge in fundamentals of financial mathematics
+    -   Topics include: valuing loans and bonds with cash flows, asset/liability management, and investment income
+-   November 2022: SOA Exam P
+    -   Applying probability concepts in actuarial science
+    -   Topics include: probability theory, random variables, distributions, and basic concepts in insurance and risk management
 
-# Skills
+# Programming Skills
 
--   Skill 1
--   Skill 2
-    -   Sub-skill 2.1
-    -   Sub-skill 2.2
-    -   Sub-skill 2.3
--   Skill 3
+-   R
+-   Python
+    -   basic python 3
+    -   data science packages, i.e. NumPy, Pandas, SciKit-Learn, and MatPlotLib
+    -   build-in SQL
+-   LaTex
 
 # Publications
 
-<ul>{% for post in site.publications reversed %} {% include archive-single-cv.html %} {% endfor %}</ul>
-
-# Talks
-
-<ul>{% for post in site.talks reversed %} {% include archive-single-talk-cv.html %} {% endfor %}</ul>
-
-# Teaching
-
-<ul>{% for post in site.teaching reversed %} {% include archive-single-cv.html %} {% endfor %}</ul>
-
-# Service and leadership
-
--   Currently signed in to 43 different slack teams
+Currently working on my honors thesis, will publish it once I am done. If you want to learn more about my thesis, I will provide it on my github page.
