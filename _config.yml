@@ -23,11 +23,11 @@ repository               : "zixuan28/zixuan28.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "林子轩 Zixuan Lin"
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Washington"
   uri              : # URL
   email            : "none@example.org" 
 
